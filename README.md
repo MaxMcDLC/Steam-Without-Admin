@@ -3,7 +3,7 @@ How to download steam without the admin password for your computer
 
 ## How to download
 There is 2 diffrent ways to download stean:
-1) (The most current version of steam): Go to https://store.steampowered.com/tags/en/Download?l=english, and download the latest version of steaminstaller.exe for the right version of windows. Then click the code button and hit "Download ZIP". 
+1) (The most current version of steam): Go to [Here](https://store.steampowered.com/about/), and download the latest version of steaminstaller.exe for the right version of windows. Then click the code button and hit "Download ZIP". 
 1) (Out of date but easier, also bypasses some internet restrictions): Click the code button and hit "Download Zip"
 
 ## How to Setup
