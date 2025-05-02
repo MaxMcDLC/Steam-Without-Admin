@@ -17,4 +17,4 @@ Setting up is pretty simple
 5) Pin steam to taskbar (This is the main way to access it)
 
 ## Final Notes
-When runnign steam you will have some errors and it might take time to run, for the errors click ignore or cancel. If it takes to long to run, you can check that its running by hiting ctrl-shift-esc. This will bring up task manager. Open the search button and search for "Steam". If it isn't running, run steam again. If not just wait. Games that need a anti-cheat might not be able to play.
+When running steam you will have some errors and it might take time to run, for the errors click ignore or cancel. If it takes to long to run, you can check that its running by hiting ctrl-shift-esc. This will bring up task manager. Open the search button and search for "Steam". If it isn't running, run steam again. If not just wait. Games that need a anti-cheat might not be able to play.
